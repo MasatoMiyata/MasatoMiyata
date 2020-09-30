@@ -2,6 +2,9 @@
 
 現在は、builelib（Building Energy-modeling Library）というソフトを開発中です。
 
+私については[こちら](https://masatomiyata.github.io/CurriculumVitae/)をご覧下さい。
+
+
 <!--
 **MasatoMiyata/MasatoMiyata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
