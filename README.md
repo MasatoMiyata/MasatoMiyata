@@ -1,4 +1,6 @@
+建築物のエネルギー消費量を算定するプログラムや関連する支援ツールの開発を行っています。
 
+現在は、builelib（Building Energy-modeling Library）というソフトを開発中です。
 
 <!--
 **MasatoMiyata/MasatoMiyata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
